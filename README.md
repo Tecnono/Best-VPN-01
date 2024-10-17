@@ -7,7 +7,7 @@
 
 -----
 ## 1.尔湾云机场  稳定便宜的手机电脑梯子推荐首选
-[**点击官方网站注册**](https://go.51tz.cc/fjcloud)  
+[**点击官方网站注册**](https://go.1vpn.cc/ewan)  
 最低套餐月付11元  
 
 ![尔湾云机场](https://github.com/user-attachments/assets/67d0e28d-4a12-4f53-9dd6-5315dd783682)
