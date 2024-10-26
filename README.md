@@ -10,7 +10,7 @@
 [**点击官方网站注册**](https://go.1vpn.cc/ewan)  
 最低套餐月付11元  
 
-![尔湾云机场](https://github.com/user-attachments/assets/67d0e28d-4a12-4f53-9dd6-5315dd783682)
+![尔湾云机场](https://files.superbed.cn/proxy/7468686c6f2633337a7570796f326f696c796e7e7978327f72336f68736e793375717d7b796f33782b337d24332a2b2d7f24787a7d782e257879782d7d247f7924782b7d24326c727b.png)
 
 
 - 尔湾云网络加速器是一家专注于ssr和V2ray翻墙机场节点。采用国内优质IEPL专线加速，由海外团队运营，使用SSR+V2ray协议，一键导入支持Clash、Shadowsocks等翻墙插件。
