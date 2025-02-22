@@ -3,7 +3,7 @@
 
 **这里分享几个稳定、快速、安全、便宜好用的机场梯子推荐名单，安卓苹果手机系统和Pc电脑winsdows系统都能用的翻墙梯子，提供 Shadowsocks、ShadowsocksR、Vmess、Vless（Reality）、Trojan、Hysteria 多种协议，支援 Clash、Shadowrocket（小火箭）、Stash（Clash for iOS）、Quantumult X（圈叉）、Surge、V2rayN、sing-box 等多种流行的翻墙客户端。无论是netflix奈飞、Disney迪士尼、HBO、Hulu、youtube油管等流媒体解锁还是日常工作学习，甚至上外网络游戏加速的需求，都能完美解决，供大家参考。**  
 
-本文与毒药评测解药测速等一样仅介绍分享机场评测，不参与购买服务和售后，相关问题请联系[翻墙机场服务商](https://discuss.d2l.ai/t/vpn/27774)。建议先购买月付套餐，满意之后再决定是否购买更长时间套餐。
+本文与毒药评测解药测速等一样仅介绍分享机场评测，不参与购买服务和售后，相关问题请联系[翻墙机场服务商](https://github.com/Tecnono/Best-Tizi-5)。建议先购买月付套餐，满意之后再决定是否购买更长时间套餐。
 
 -----
 ## 1.尔湾云机场  稳定便宜的手机电脑梯子推荐首选
